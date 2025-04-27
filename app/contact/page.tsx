@@ -63,7 +63,7 @@ export default function Contact() {
                   <Phone className="h-6 w-6 text-blue-600 mr-3 flex-shrink-0 mt-1" />
                   <div>
                     <h3 className="text-lg font-semibold text-gray-900">Telefon</h3>
-                    <p className="text-gray-700">+90 (212) 123 45 67</p>
+                    <p className="text-gray-700">+90 (553) 530 55 31</p>
                   </div>
                 </div>
 

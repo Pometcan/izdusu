@@ -68,7 +68,7 @@ export default function Footer() {
               <p>Ahmet Yesevi Mah.</p>
               <p>Pendik/İstanbul</p>
               <p className="mt-2">Email: info@izdusu.com</p>
-              <p>Telefon: +90 (212) 123 45 67</p>
+              <p>Telefon: +90 (553) 530 55 31</p>
             </address>
           </div>
         </div>
